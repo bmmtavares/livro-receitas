@@ -1,5 +1,6 @@
 # Livro de receitas
 Ola! Bem-vindo ao meu livro de receitas 
 
--Item 1 
+- Strogonoff de frango
+- Pavê
 
